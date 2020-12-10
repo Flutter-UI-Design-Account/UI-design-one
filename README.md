@@ -1,6 +1,7 @@
 # UI-design-one
 First UI Design
 
+# PLS do well to go thru.
 
 We will put every UI Design we do into this particular account
 
@@ -41,7 +42,7 @@ You can send a PR to the other after pushing so the other is notified when you p
 
 ## We will use the ISSUES feature of the repo to interact about the specific task we are working on.
 
-## SUCH AS 
+## POSSIBLE DISCUSSION TOPICS COULD BE ; 
 ## 1. Questions about how certain features were implemented.
 
 ## 2. Asking for explanation of something in the code that we didn't understand.

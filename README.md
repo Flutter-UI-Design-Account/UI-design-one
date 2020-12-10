@@ -4,7 +4,7 @@ First UI Design
 
 We will put every UI Design we do into this particular account
 
-The first one we are putting them in the UI-Design-One repository .
+For The first one we are putting them in the UI-Design-One repository .
 
 Since the designs we both will work on will be an already completed design.There is no need for us to push,pull and merge and all those stuffs.Instead,
 

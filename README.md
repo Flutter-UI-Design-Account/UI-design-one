@@ -37,18 +37,18 @@ You can send a PR to the other after pushing so the other is notified when you p
 # git push -u origin your_branch_name
 
 
-## The purpose of this project is to better our selves in UI designs and learn more. So it's a must to check the others design.
+# The purpose of this project is to better ourselves in UI designs and learn more. So it's a must to check the others design.
 
-## You can simply, navigate to the branch of the other and then clone it , and run it on our machines to check the code out.
+# You can simply, navigate to the branch of the other's branch and then clone it , and run it on our machines to check the code out.
 
-## We will use the ISSUES feature of the repo to interact about the specific task we are working on.
+# We will use the ISSUES feature of the repo to interact about the specific task we are working on.
 
-SUCH AS 
-## Questions about how certain features were implemented.
+# SUCH AS 
+## 1. Questions about how certain features were implemented.
 
-## Asking for explanation of something in the code that we didn't understand.
+## 2. Asking for explanation of something in the code that we didn't understand.
 
-## Raising an issue if there is any challenge in running the code on our sides.
+## 3. Raising an issue if there is any challenge in running the code on our sides.
 
-## Reporting overflow issues and any other UI-related problems
+## 4. Reporting overflow issues and any other UI-related problems
 

@@ -6,9 +6,12 @@ We will put every UI Design we do into this particular account
 
 For The first one we are putting them in the UI-Design-One repository .
 
-Since the designs we both will work on will be an already completed design.There is no need for us to push,pull and merge and all those stuffs.Instead,
+Since the designs we both will work on will be an already completed design.There is no need for us to merge and all those stuffs.
 
-Just create a new branch when pushing to the repo.And that's it. You can send a PR to the other after pushing so the other is notifying when you push a design.
+Instead, just create a new branch when pushing to the repo.And that's it.
+
+You can send a PR to the other after pushing so the other is notified when you push a design.
+
 
 
 # The following procedure could come in handy when pushing your design of the particular task

@@ -24,7 +24,7 @@ You can send a PR to the other after pushing so the other is notified when you p
 
 ## git remote add origin https://github.com/Flutter-UI-Design-Account/UI-design-one.git
 
-## Don't push to the Master branch but create a new branch with your name and push to that branch
+# Don't push to the Master branch but create a new branch with your name and push to that branch
 
 #for Checking available branches
 
@@ -37,13 +37,11 @@ You can send a PR to the other after pushing so the other is notified when you p
 ## git push -u origin your_branch_name
 
 
-## The purpose of this project is to better ourselves in UI designs and learn more. So it's a must to check the others design.
-
-## You can simply, navigate to the branch of the other's branch and then clone it , and run it on our machines to check the code out.
+## The purpose of this project is to better ourselves in UI designs and learn more. So it's a must to check the other's design. You can simply, navigate to the branch of the other's branch and then clone it , and run it on our machines to check the code out.
 
 ## We will use the ISSUES feature of the repo to interact about the specific task we are working on.
 
-# SUCH AS 
+## SUCH AS 
 ## 1. Questions about how certain features were implemented.
 
 ## 2. Asking for explanation of something in the code that we didn't understand.
